@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^22.3.0"
+  },
+  "dependencies": {
+    "@wordpress/data": "^6.5.0",
+    "@wordpress/i18n": "^4.5.0"
+  }
+}
